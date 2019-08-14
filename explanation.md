@@ -1,7 +1,7 @@
 #### print: 
 This is fairly simple, it prints the variable/integer/string in the parenthesis. 
 
-####[var] = input([string]): 
+#### [var] = input([string]): 
 taking user input and assigning it to a variable.
 
 #### if [var] == 'string' or [var] == 'string': 
