@@ -1,6 +1,6 @@
 # a failsafe for 0 ^
 
-print('Project file can be found here: ')
+print('Project file can be found here: https://github.com/5cans/Math1_Recursion')
 print('The program finds the end value recursively, and prints the formula.')
 
 # operation variable
