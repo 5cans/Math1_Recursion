@@ -1,4 +1,4 @@
-# this is the only ifle in the project. If a bug is found I will edit this file.
+# this is the only file in the project. If a bug is found I will edit this file.
 
 print('Project file can be found here: https://github.com/5cans/Math1_Recursion')
 print('The program finds the end value recursively, and prints the formula.')
@@ -54,4 +54,6 @@ if asdm == 'm' or asdm == 'M':
     while terms > 0:
         terms = terms - 1
         sn = sn * numb
+        print(sn)
+    print('The answer is:')
     print(sn)
